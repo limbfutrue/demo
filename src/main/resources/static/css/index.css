@@ -1,0 +1,14 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+html{
+    width: 200px;
+    height: 100px;
+    background: #666666;
+    border: 3px solid red;
+}
+body{
+    width: 100px;
+    height: 100px;
+}
