@@ -7,7 +7,7 @@ import org.springframework.context.annotation.ComponentScan;
 
 @SpringBootApplication(exclude = DataSourceAutoConfiguration.class)
 public class DemoApplication {
-
+	//程序入口
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
 	}
